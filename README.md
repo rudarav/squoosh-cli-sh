@@ -1,0 +1,1 @@
+# squoosh-cli-sh
